@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "130170452684",
+    "firebase_url": "https://fir-8b38d.firebaseio.com",
+    "project_id": "fir-8b38d",
+    "storage_bucket": "fir-8b38d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130170452684:android:c8045b828d6567972c6069",
+        "android_client_info": {
+          "package_name": "com.crezyprogrammer.mygoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130170452684-o22mrl34a4cuddu1l6r54che4radifd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsnFtCzolztuK9mjMfNEXHH2jXK2eUWqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130170452684-o22mrl34a4cuddu1l6r54che4radifd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
